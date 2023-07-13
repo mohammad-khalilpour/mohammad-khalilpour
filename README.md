@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-khalilpour&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-khalilpour" /> </p>
 
-- 🔭 I’m currently working on [instagraph]((https://github.com/amirabedinii/insta_graph))
+- 🔭 I’m currently working on [instagraph](https://github.com/amirabedinii/insta_graph)
 
 - 🌱 I’m currently learning **flutter and dart**
 
