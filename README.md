@@ -19,6 +19,11 @@ flutter
 django
 
 [recipe-app-api](https://github.com/mohammad-khalilpour/recipe-app-api)
+
+
+ML
+
+[titanic prediction](https://github.com/mohammad-khalilpour/titanicPrediction)
   
 ## My activity
 
