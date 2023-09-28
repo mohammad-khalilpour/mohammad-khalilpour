@@ -5,9 +5,7 @@
 
 ### About me
 
-hi im a flutter developer trying to become a fullstack developer 
-
-right now trying to learn more in django and flutter
+Studing AI and creating django and flutter projects for fun
 
 ## My Projects
 flutter 
