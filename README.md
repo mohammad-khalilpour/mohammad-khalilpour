@@ -8,20 +8,22 @@
 Studing AI and creating django and flutter projects for fun
 
 ## My Projects
-flutter 
-
-[instagraph](https://github.com/mohammad-khalilpour/instagraph) \
-[insta_graph-api](https://github.com/amirabedinii/insta_graph) \
-[twitch](https://github.com/mohammad-khalilpour/twitch-clone)
-
 django
 
+[chatbot](https://github.com/mohammad-khalilpour/chatbot) \
 [recipe-app-api](https://github.com/mohammad-khalilpour/recipe-app-api)
 
 
 ML
 
 [titanic prediction](https://github.com/mohammad-khalilpour/titanicPrediction)
+
+flutter 
+
+[instagraph](https://github.com/mohammad-khalilpour/instagraph) \
+[insta_graph-api](https://github.com/amirabedinii/insta_graph) \
+[twitch](https://github.com/mohammad-khalilpour/twitch-clone)
+
   
 ## My activity
 
