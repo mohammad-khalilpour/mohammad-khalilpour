@@ -5,18 +5,19 @@
 
 ### About me
 
-Studing AI and creating django and flutter projects for fun
+Studing AI and creating django projects for fun
 
 ## My Projects
+ML
+
+[neural network framework](https://github.com/mohammad-khalilpour/neuralNetworkFramework) \
+[Machine learning notebooks](https://github.com/mohammad-khalilpour/Machine-learning-notebooks)
+
 django
 
 [chatbot](https://github.com/mohammad-khalilpour/chatbot) \
 [recipe-app-api](https://github.com/mohammad-khalilpour/recipe-app-api)
 
-
-ML
-
-[titanic prediction](https://github.com/mohammad-khalilpour/titanicPrediction)
 
 flutter 
 
