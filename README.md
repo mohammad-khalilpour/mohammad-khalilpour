@@ -7,11 +7,11 @@
 
 Studing AI and creating django projects for fun
 
-## My Projects
+## My Significant Projects
 ML
 
 [neural network framework](https://github.com/mohammad-khalilpour/neuralNetworkFramework) \
-[Machine learning notebooks](https://github.com/mohammad-khalilpour/Machine-learning-notebooks)
+[AI_notebooks](https://github.com/mohammad-khalilpourAI-notebooks)
 
 django
 
@@ -19,11 +19,6 @@ django
 [recipe-app-api](https://github.com/mohammad-khalilpour/recipe-app-api)
 
 
-flutter 
-
-[instagraph](https://github.com/mohammad-khalilpour/instagraph) \
-[insta_graph-api](https://github.com/amirabedinii/insta_graph) \
-[twitch](https://github.com/mohammad-khalilpour/twitch-clone)
 
   
 ## My activity
