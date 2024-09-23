@@ -33,9 +33,9 @@ django
 
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,dart,java,python&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python&perline=10)](https://skillicons.dev)
 ### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=flutter,django&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,django,docker&perline=10)](https://skillicons.dev)
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=postgres&perline=10)](https://skillicons.dev)
 
