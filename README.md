@@ -5,7 +5,7 @@
 
 ### About me
 
-Studying AI and creating django projects for fun
+Enjoying studying AI
 
 ## My Significant Projects
 ML
